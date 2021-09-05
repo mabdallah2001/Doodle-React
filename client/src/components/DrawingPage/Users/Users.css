@@ -1,0 +1,27 @@
+.usersContainer{
+    width:16.2%;
+    height:87.65%;
+    border:2px solid #000;
+    position: absolute;
+    margin-left:1.28%;
+    background-color: white;
+    
+}
+.users-scroll{
+    overflow: auto;
+    flex: auto;
+    height: 30rem;
+}
+
+.rectangle{
+    height:3.2rem; 
+    background-color:lightgray;
+    text-align: center;
+    transform: translateY(-1.2rem);
+}
+.mbtm{
+    transform: translateY(0.9rem);
+}
+.mtp{
+    margin-top: -0.85rem;
+}

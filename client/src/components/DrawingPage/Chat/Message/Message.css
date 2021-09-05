@@ -1,0 +1,47 @@
+.messageContainer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 5%;
+    margin-top: 3px;
+}
+
+.adminJoin{
+    display: flex;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: darkgreen;
+    letter-spacing: 0.3px;
+    display: inline;
+    
+}
+.adminLeft{
+    display: flex;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: darkgoldenrod;
+    letter-spacing: 0.3px;
+    display: inline;
+    
+}
+
+.sentText{
+    display: flex;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 0.3px;
+    display: inline;
+}
+
+
+
+.pr-10 {
+    padding-right: 10px;
+}
+
+.justifyStart {
+    justify-content: flex-start;
+}

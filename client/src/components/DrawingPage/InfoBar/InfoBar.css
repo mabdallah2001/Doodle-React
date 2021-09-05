@@ -1,0 +1,36 @@
+.infoBarContainer{
+    height: 6ch;
+    width:97.2%;
+    border: 2px solid;
+    margin: 1rem;
+    font-size:x-large;
+    background-color: white;
+    
+}
+
+.room{
+    margin-left: 2ch;
+}
+
+
+.border{
+    border: 20px solid;
+}
+
+
+.logo{
+    display: block;
+    border: royalblue;
+    margin: 0 auto;
+    width: 21ch;
+    margin-top:-5.5ch;
+}
+
+.userDrawing{
+ 
+  text-align: right;
+  margin-right: 3ch;
+  margin-top: -4.5ch;
+  font-size: large;
+  
+}

@@ -1,0 +1,17 @@
+body {
+
+    /* background-color:#2979FF; */
+    /* background-color:#0963fd; */
+    background-color: rgba(43, 103, 255, 0.9);
+    /* filter: brightness(75%); */
+
+}
+
+
+/* body:after {
+    content: "";
+    position: fixed;
+    top: 0; bottom: 0; left: 0; right: 0; 
+    background-color:#0963fd;
+    pointer-events: none;
+  } */

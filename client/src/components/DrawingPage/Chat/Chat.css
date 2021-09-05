@@ -1,0 +1,25 @@
+#chatbox{
+    border-radius: 0;
+    padding: 15px 20px;
+    width: 97%;
+    position: absolute;
+    top: 90.5%;
+    margin-left: 1.4%;
+    border: 2px solid;
+}
+.chatContainer{
+    width:19.7%;
+    height:87.65%;
+    border:2px 
+    solid #000;
+    position: absolute;
+    margin-left: 78.7%;
+    background-color: white;
+
+    
+}
+.scroll{
+    overflow: auto;
+    flex: auto;
+    height: 30rem;
+}

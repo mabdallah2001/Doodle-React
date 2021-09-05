@@ -1,0 +1,50 @@
+.canvas-col{
+    position: absolute;
+    height: 101%;
+    width: 110%;
+    left: -6%;
+    margin-bottom: 0px;
+}
+
+.drawing-canvas{
+    position: absolute;
+    border: black 2px solid;
+    background-color: white;
+    height: 100%;
+}
+
+.drawing-canvas:hover{
+    cursor: crosshair;
+}
+
+.colours{
+    position:absolute;
+    display: flex;
+    margin-top:79%;
+    margin-left:25%;
+
+}
+.colour{
+    margin-left: 1ch;
+    font-size:200%;
+    margin-bottom: 5%;
+}
+.colour:hover{
+    cursor:pointer;
+}
+#clear{
+    color:darkgray;
+    margin-left:0.95ch;
+}
+#blue{
+    color:blue;
+}
+#red{
+    color:red;
+}
+#green{
+    color:darkgreen;
+}
+#yellow{
+    color:goldenrod;
+}
